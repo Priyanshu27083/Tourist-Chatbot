@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+scikit-learn
+nltk
+python-dotenv
+google-generativeai
+openai
